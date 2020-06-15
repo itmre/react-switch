@@ -372,7 +372,7 @@ ReactSwitch.propTypes = {
 };
 
 ReactSwitch.defaultProps = {
-  disabled: false,
+  disabled: true,
   offColor: "#888",
   onColor: "#080",
   offHandleColor: "#fff",
